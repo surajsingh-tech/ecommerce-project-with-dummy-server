@@ -19,7 +19,7 @@
 ## Project Structure
    MY E-COMMERCE PROJECT/
   │
-  ├── 02 Mejor Project/       # React frontend (Buyer & Admin UI)
+  ├── ecommerce_project/       # React frontend (Buyer & Admin UI)
   │   └── Uses Redux-Saga, Bootstrap, and centralized .env
   │
   ├── Rich Text Editor/       # Reusable editor module (used in Admin Panel)
@@ -91,7 +91,7 @@
   json-server --watch data.json --port 8000
 
   # Frontend
-  cd "02 Mejor Project"
+  cd "ecommerce_project"
   npm install
   npm run dev
 

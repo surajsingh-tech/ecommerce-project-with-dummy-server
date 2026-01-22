@@ -1,0 +1,2363 @@
+{
+  "newsletter": [
+    {
+      "id": "8b87",
+      "email": "bangarisuraj@7579gmail.com",
+      "active": true
+    },
+    {
+      "id": "f7d7",
+      "email": "techw2814@gmail.com",
+      "active": true
+    },
+    {
+      "id": "2b65",
+      "email": "chandan123@gmail.com",
+      "active": true
+    },
+    {
+      "id": "2895",
+      "email": "vikkigupta1134@gmil.com",
+      "active": true
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1443",
+      "review": "The dress fits perfectly, the fabric feels soft, and it’s comfortable to wear all day",
+      "star": 5,
+      "name": "Aarav",
+      "user": "f1b6",
+      "product": "prod1102",
+      "orderPId": "3ab9",
+      "date": "2025-12-22T06:54:05.329Z"
+    },
+    {
+      "id": "84fe",
+      "review": "I loved the vibrant colors; they look exactly like the pictures and don’t fade after washing.\n",
+      "star": 4,
+      "name": "Meera",
+      "user": "f1b6",
+      "product": "prod103",
+      "orderPId": "f8e6",
+      "date": "2025-12-22T06:55:40.163Z"
+    },
+    {
+      "id": "fa11",
+      "review": "The stitching is neat and strong, making the dress feel durable and well‑made.",
+      "star": 5,
+      "name": "Rohan",
+      "user": "f1b6",
+      "product": "prod119",
+      "orderPId": "516e",
+      "date": "2025-12-22T06:56:00.583Z"
+    },
+    {
+      "id": "90c3",
+      "review": "- The dress loses shape after washing.\n",
+      "star": 3,
+      "name": "Ananya",
+      "user": "f1b6",
+      "product": "prod117",
+      "orderPId": "1465",
+      "date": "2025-12-22T06:56:21.544Z"
+    },
+    {
+      "id": "228d",
+      "review": "Looks stylish online but feels cheap in reality.\n",
+      "star": 2,
+      "name": "Kabir",
+      "user": "f1b6",
+      "product": "prod130",
+      "orderPId": "330f",
+      "date": "2025-12-22T06:56:45.426Z"
+    },
+    {
+      "id": "66e9",
+      "review": "Affordable price but the quality feels premium, which makes it a great buy\n\n",
+      "star": 5,
+      "name": "Ishita",
+      "user": "f1b6",
+      "product": "prod114",
+      "orderPId": "5703",
+      "date": "2025-12-22T06:57:06.845Z"
+    },
+    {
+      "id": "f457",
+      "review": "The fabric doesn’t wrinkle much, and a quick iron makes it look fresh again.\n",
+      "star": 5,
+      "name": "Dev",
+      "user": "f1b6",
+      "product": "prod102",
+      "orderPId": "a1d7",
+      "date": "2025-12-22T06:57:25.964Z"
+    },
+    {
+      "id": "b143",
+      "review": "- The colors are bright and eye‑catching, adding charm to the overall look.\n",
+      "star": 5,
+      "name": "Nisha",
+      "user": "f1b6",
+      "product": "prod101",
+      "orderPId": "60cc",
+      "date": "2025-12-22T06:57:41.206Z"
+    },
+    {
+      "id": "d14d",
+      "review": "The dress drapes nicely and gives a flattering silhouette without being too tight",
+      "star": 5,
+      "name": "Arjun",
+      "user": "f1b6",
+      "product": "prod118",
+      "orderPId": "1bbd",
+      "date": "2025-12-22T06:58:06.374Z"
+    },
+    {
+      "id": "5285",
+      "review": "The design is simple yet classy, making it easy to pair with shoes or jewelry.\n",
+      "star": 4,
+      "name": "Priya",
+      "user": "f1b6",
+      "product": "prod105",
+      "orderPId": "addb",
+      "date": "2025-12-22T06:58:27.303Z"
+    },
+    {
+      "id": "31f5",
+      "review": "Overall, I’m very satisfied with this order and would recommend these dresses to others.\n",
+      "star": 4,
+      "name": "Vikram",
+      "user": "f1b6",
+      "product": "prod136",
+      "orderPId": "38cf",
+      "date": "2025-12-22T06:58:47.662Z"
+    },
+    {
+      "id": "ad86",
+      "review": "- Overall disappointed, wouldn’t recommend to others.\n",
+      "star": 1,
+      "name": "Sneha",
+      "user": "f1b6",
+      "product": "prod113",
+      "orderPId": "d477",
+      "date": "2025-12-22T06:59:07.607Z"
+    },
+    {
+      "id": "928d",
+      "review": "- Poor value for money, quality doesn’t match the price.\n",
+      "star": 2,
+      "name": "Rahul",
+      "user": "f1b6",
+      "product": "prod102",
+      "orderPId": "41a5",
+      "date": "2025-12-22T06:59:26.950Z"
+    },
+    {
+      "id": "eb0a",
+      "review": "- Seams tore after wearing only twice.\n",
+      "star": 3,
+      "name": "Tanya",
+      "user": "f1b6",
+      "product": "prod103",
+      "orderPId": "0bba",
+      "date": "2025-12-22T06:59:57.182Z"
+    },
+    {
+      "id": "fdb0",
+      "review": "The fit is true to size and flattering, giving a confident look when worn\n",
+      "star": 5,
+      "name": "Manish",
+      "user": "f1b6",
+      "product": "prod103",
+      "orderPId": "a933",
+      "date": "2025-12-22T07:06:53.549Z"
+    },
+    {
+      "id": "207c",
+      "review": "Easy to wash, no shrinking or fading.\n",
+      "star": 5,
+      "name": "Kavya",
+      "user": "f1b6",
+      "product": "prod137",
+      "orderPId": "a9ef",
+      "date": "2025-12-22T07:21:52.040Z"
+    }
+  ],
+  "address": [
+    {
+      "id": "5bde",
+      "name": "chandan",
+      "email": "chandan123@gmail.com",
+      "phone": "8542685426",
+      "address": "jhilgarh(Kumaleshwar)",
+      "pinCode": "263659",
+      "city": "almora",
+      "state": "uttarakhand",
+      "user": "f1b6"
+    },
+    {
+      "id": "9387",
+      "name": "Vikki Patwal",
+      "email": "vikki@gmail.com",
+      "phone": "8542685426",
+      "address": "jhilgarh",
+      "pinCode": "263659",
+      "city": "almora",
+      "state": "uttarakhand",
+      "user": "557d"
+    },
+    {
+      "id": "b356",
+      "name": "chandu ",
+      "email": "chandu1233@gmail.com",
+      "phone": "94568154566",
+      "address": "jhilgarh(Kumaleshwar)",
+      "pinCode": "263659",
+      "city": "almora",
+      "state": "",
+      "user": "f1b6"
+    }
+  ],
+  "cart": [
+    {
+      "id": "643e",
+      "selectedSizes": [
+        "S"
+      ],
+      "selectedColors": [
+        "Grey"
+      ],
+      "quantity": 2,
+      "productId": "prod103",
+      "pic": "category_item3.avif",
+      "finalPrice": 799,
+      "discount": 200,
+      "basePrice": 999,
+      "brand": "Nike",
+      "name": "Kids Joggers",
+      "stockQuantity": 23,
+      "discription": "<p>Comfortable joggers for playtime</p>",
+      "stock": true
+    }
+  ],
+  "wishlist": [
+    {
+      "id": "29c1",
+      "selectedSizes": [
+        "S"
+      ],
+      "selectedColors": [
+        "Pink"
+      ],
+      "quantity": 1,
+      "productId": "prod113",
+      "pic": "item7.avif",
+      "finalPrice": 749,
+      "discount": 150,
+      "basePrice": 899,
+      "brand": "RedTape",
+      "name": "Printed Kurta",
+      "stockQuantity": 70
+    },
+    {
+      "id": "299d",
+      "selectedSizes": [
+        "L"
+      ],
+      "selectedColors": [
+        "Blue"
+      ],
+      "quantity": 1,
+      "productId": "prod114",
+      "pic": "item8.avif",
+      "finalPrice": 2099,
+      "discount": 400,
+      "basePrice": 2499,
+      "brand": "Nike",
+      "name": "Running Shoes",
+      "stockQuantity": 110
+    },
+    {
+      "id": "1531",
+      "productId": "prod102",
+      "pic": "category_item2.avif",
+      "finalPrice": 699,
+      "discount": 100,
+      "basePrice": 799,
+      "brand": "Adidas",
+      "name": "Cartoon T-Shirt"
+    },
+    {
+      "id": "0d07",
+      "selectedSizes": [
+        "S"
+      ],
+      "selectedColors": [
+        "Navy"
+      ],
+      "quantity": 1,
+      "productId": "prod112",
+      "pic": "category_item12.avif",
+      "finalPrice": -3398,
+      "discount": 300,
+      "basePrice": 1699,
+      "brand": "Nike",
+      "name": "Kids Track Suit",
+      "stockQuantity": 20
+    },
+    {
+      "id": "01a7",
+      "selectedSizes": [
+        "L"
+      ],
+      "selectedColors": [
+        "Black"
+      ],
+      "quantity": 1,
+      "productId": "prod119",
+      "pic": "category_item10.avif",
+      "finalPrice": 1199,
+      "discount": 200,
+      "basePrice": 1399,
+      "brand": "Gucci",
+      "name": "Denim Jeans",
+      "stockQuantity": 120
+    },
+    {
+      "id": "804a",
+      "productId": "prod128",
+      "pic": "item2.avif",
+      "finalPrice": 1499,
+      "discount": 500,
+      "basePrice": 1999,
+      "brand": "Mufti",
+      "name": "Denim Jacket"
+    },
+    {
+      "id": "4a37",
+      "selectedSizes": [
+        "M"
+      ],
+      "selectedColors": [
+        "Blue"
+      ],
+      "quantity": 1,
+      "productId": "prod0115",
+      "pic": "item1.avif",
+      "finalPrice": 0,
+      "discount": 100,
+      "basePrice": 799,
+      "brand": "Nike",
+      "name": "Printed Kurta",
+      "stockQuantity": 120
+    },
+    {
+      "id": "96a7",
+      "selectedSizes": [
+        "S"
+      ],
+      "selectedColors": [
+        "Blue"
+      ],
+      "quantity": 1,
+      "productId": "prod110",
+      "pic": "category_item10.avif",
+      "finalPrice": -2598,
+      "discount": 300,
+      "basePrice": 1299,
+      "brand": "RedTape",
+      "name": "Kids Raincoat",
+      "stockQuantity": 12
+    },
+    {
+      "id": "05a9",
+      "productId": "prod124",
+      "pic": "category_item10.avif",
+      "finalPrice": 599,
+      "discount": 100,
+      "basePrice": 699,
+      "brand": "Adidas",
+      "name": "Graphic Tee"
+    },
+    {
+      "id": "b0e0",
+      "selectedSizes": [
+        "L"
+      ],
+      "selectedColors": [
+        "Black"
+      ],
+      "quantity": 1,
+      "productId": "prod117",
+      "pic": "item9.avif",
+      "finalPrice": 999,
+      "discount": 300,
+      "basePrice": 1299,
+      "brand": "Gucci",
+      "name": "Slim Fit Jeans",
+      "stockQuantity": 146
+    }
+  ],
+  "contactus": [
+    {
+      "id": "f6ca",
+      "name": "Priya Sharma",
+      "email": "priya.sharma@testmail.com",
+      "phone": "7535111111",
+      "subject": "Sample Message",
+      "message": "Testing Contact Us page — verifying name, email, phone, and message fields.",
+      "active": true,
+      "date": "2025-12-23T11:08:13.480Z"
+    },
+    {
+      "id": "e5e8",
+      "name": "John Doe",
+      "email": " johndoe@example.com",
+      "phone": "9998887776",
+      "subject": "Sample Message",
+      "message": "\"Hello, I’m testing the contact form. Please ignore this message.",
+      "active": false,
+      "date": "2025-12-23T11:08:52.831Z"
+    }
+  ],
+  "brand": [
+    {
+      "id": "881b",
+      "name": "Addidas",
+      "pic": "Adidas.jpeg",
+      "active": true
+    },
+    {
+      "id": "a126",
+      "name": "Gucci",
+      "pic": "Gucci.jpeg",
+      "active": true
+    },
+    {
+      "id": "43d4",
+      "name": "Jordan",
+      "pic": "JORDAN.jpg",
+      "active": true
+    },
+    {
+      "id": "8da4",
+      "name": "Mufti",
+      "pic": "Mufti.jpeg",
+      "active": true
+    },
+    {
+      "id": "210e",
+      "name": "Nike",
+      "pic": "Nike.jpeg",
+      "active": true
+    },
+    {
+      "id": "e2a6",
+      "name": "Puma",
+      "pic": "Puma.jpeg",
+      "active": true
+    },
+    {
+      "id": "52e0",
+      "name": "RedTape",
+      "pic": "RedTape.jpeg",
+      "active": true
+    }
+  ],
+  "maincategory": [
+    {
+      "id": "1126",
+      "name": "Male",
+      "pic": "man.jpg",
+      "active": true
+    },
+    {
+      "id": "26ff",
+      "name": "Female",
+      "pic": "woman-beautiful-red-dress.jpg",
+      "active": true
+    },
+    {
+      "name": "Electronic",
+      "pic": "electronic.jpg",
+      "active": false,
+      "id": "168b"
+    },
+    {
+      "name": "Kids",
+      "pic": "kids.jpg",
+      "active": true,
+      "id": "9582"
+    }
+  ],
+  "product": [
+    {
+      "id": "prod101",
+      "name": "Kids Denim Jacket",
+      "maincategory": "Kids",
+      "subcategory": "Saari",
+      "brand": "Wrangler",
+      "color": [
+        "Blue"
+      ],
+      "size": [
+        "S",
+        "M"
+      ],
+      "stockQuantity": 16,
+      "basePrice": 1499,
+      "discount": 300,
+      "finalPrice": 1199,
+      "pic": [
+        "category_item1.avif",
+        "item1.avif",
+        "category_item11.avif",
+        "item11.avif"
+      ],
+      "discription": "<p>Stylish denim jacket for kids</p>",
+      "stock": true,
+      "active": true
+    },
+    {
+      "id": "prod102",
+      "name": "Cartoon T-Shirt",
+      "maincategory": "Kids",
+      "subcategory": "T-Shirt",
+      "brand": "Adidas",
+      "color": [
+        "Red"
+      ],
+      "size": [
+        "XS",
+        "S"
+      ],
+      "stockQuantity": 32,
+      "basePrice": 799,
+      "discount": 100,
+      "finalPrice": 699,
+      "pic": [
+        "category_item2.avif",
+        "item2.avif",
+        "category_item12.avif",
+        "item12.avif"
+      ],
+      "discription": "<p>Fun cartoon print tee</p>",
+      "stock": true,
+      "active": true
+    },
+    {
+      "id": "prod103",
+      "name": "Kids Joggers",
+      "maincategory": "Kids",
+      "subcategory": "Saari",
+      "brand": "Nike",
+      "color": [
+        "Grey"
+      ],
+      "size": [
+        "S",
+        "M",
+        "L"
+      ],
+      "stockQuantity": 23,
+      "basePrice": 999,
+      "discount": 200,
+      "finalPrice": 799,
+      "pic": [
+        "category_item3.avif",
+        "item3.avif",
+        "category_item13.avif",
+        "item13.avif"
+      ],
+      "discription": "<p>Comfortable joggers for playtime</p>",
+      "stock": true,
+      "active": true
+    },
+    {
+      "id": "prod104",
+      "name": "Printed Kurta",
+      "maincategory": "Kids",
+      "subcategory": "Trouser",
+      "brand": "Zara",
+      "color": [
+        "Yellow"
+      ],
+      "size": [
+        "S",
+        "M"
+      ],
+      "stockQuantity": 11,
+      "basePrice": 1000,
+      "discount": 0,
+      "finalPrice": 100,
+      "pic": [
+        "category_item4.avif",
+        "item4.avif",
+        "category_item14.avif",
+        "item14.avif"
+      ],
+      "discription": "<p>Festive wear for kids</p>",
+      "stock": true,
+      "active": true
+    },
+    {
+      "id": "prod105",
+      "name": "Kids Sneakers",
+      "maincategory": "Kids",
+      "subcategory": "Trouser",
+      "brand": "Addidas",
+      "color": [
+        "White"
+      ],
+      "size": [
+        "28",
+        "30",
+        "32"
+      ],
+      "stockQuantity": 32,
+      "basePrice": 1799,
+      "discount": 400,
+      "finalPrice": 1399,
+      "pic": [
+        "category_item5.avif",
+        "item5.avif",
+        "category_item15.avif",
+        "item15.avif"
+      ],
+      "discription": "<p>Lightweight sneakers for kids</p>",
+      "stock": true,
+      "active": true
+    },
+    {
+      "name": "Kids Shorts",
+      "maincategory": "Kids",
+      "subcategory": "Trouser",
+      "brand": "Addidas",
+      "color": [
+        "Orange"
+      ],
+      "size": [
+        "S",
+        "M"
+      ],
+      "stockQuantity": 22,
+      "basePrice": 899,
+      "discount": 150,
+      "finalPrice": -449,
+      "pic": [
+        "category_item7.avif",
+        "item7.avif"
+      ],
+      "discription": "<p>Cool summer shorts</p>",
+      "stock": "In Stock",
+      "active": true,
+      "id": "prod107"
+    },
+    {
+      "name": "Kids Party Dress",
+      "maincategory": "Kids",
+      "subcategory": "Trouser",
+      "brand": "Addidas",
+      "color": [
+        "Pink"
+      ],
+      "size": [
+        "S",
+        "M"
+      ],
+      "stockQuantity": 13,
+      "basePrice": 1999,
+      "discount": 500,
+      "finalPrice": -7996,
+      "pic": [
+        "category_item8.avif",
+        "item8.avif"
+      ],
+      "discription": "<p>Elegant party wear</p>",
+      "stock": true,
+      "active": true,
+      "id": "prod108"
+    },
+    {
+      "name": "Kids Cap",
+      "maincategory": "Kids",
+      "subcategory": "Accessories",
+      "brand": "Puma",
+      "color": [
+        "Black"
+      ],
+      "size": [
+        "Free"
+      ],
+      "stockQuantity": 50,
+      "basePrice": 499,
+      "discount": 100,
+      "finalPrice": 0,
+      "pic": [
+        "category_item9.avif",
+        "item9.avif"
+      ],
+      "discription": "<p>Stylish cap for kids</p>",
+      "stock": "In Stock",
+      "active": true,
+      "id": "prod109"
+    },
+    {
+      "name": "Kids Raincoat",
+      "maincategory": "Kids",
+      "subcategory": "Trouser",
+      "brand": "RedTape",
+      "color": [
+        "Blue"
+      ],
+      "size": [
+        "S",
+        "M"
+      ],
+      "stockQuantity": 8,
+      "basePrice": 1299,
+      "discount": 300,
+      "finalPrice": -2598,
+      "pic": [
+        "category_item10.avif",
+        "item10.avif"
+      ],
+      "discription": "<p>Waterproof raincoat</p>",
+      "stock": true,
+      "active": true,
+      "id": "prod110"
+    },
+    {
+      "name": "Kids Ethnic Set",
+      "maincategory": "Kids",
+      "subcategory": "Ethnic",
+      "brand": "RedTape",
+      "color": [
+        "Maroon"
+      ],
+      "size": [
+        "S",
+        "M"
+      ],
+      "stockQuantity": 10,
+      "basePrice": 1899,
+      "discount": 400,
+      "finalPrice": -5697,
+      "pic": [
+        "category_item11.avif",
+        "item11.avif"
+      ],
+      "discription": "<p>Traditional wear for kids</p>",
+      "stock": "In Stock",
+      "active": true,
+      "id": "prod111"
+    },
+    {
+      "name": "Kids Track Suit",
+      "maincategory": "Kids",
+      "subcategory": "Trouser",
+      "brand": "Nike",
+      "color": [
+        "Navy"
+      ],
+      "size": [
+        "S",
+        "M",
+        "L"
+      ],
+      "stockQuantity": 17,
+      "basePrice": 1699,
+      "discount": 300,
+      "finalPrice": -3398,
+      "pic": [
+        "category_item12.avif",
+        "item12.avif"
+      ],
+      "discription": "<p>Perfect for sports and play</p>",
+      "stock": true,
+      "active": true,
+      "id": "prod112"
+    },
+    {
+      "id": "prod113",
+      "name": "Printed Kurta",
+      "maincategory": "Female",
+      "subcategory": "Kurta",
+      "brand": "RedTape",
+      "color": [
+        "Pink"
+      ],
+      "size": [
+        "S",
+        "M",
+        "L"
+      ],
+      "stockQuantity": 68,
+      "basePrice": 899,
+      "discount": 150,
+      "finalPrice": 749,
+      "pic": [
+        "item7.avif",
+        "item11.avif",
+        "item14.avif"
+      ],
+      "discription": "<p>Elegant printed kurta for festive wear&nbsp;</p>",
+      "stock": true,
+      "active": true
+    },
+    {
+      "id": "prod114",
+      "name": "Running Shoes",
+      "maincategory": "Male",
+      "subcategory": "Shoes",
+      "brand": "Nike",
+      "color": [
+        "Blue",
+        "White"
+      ],
+      "size": [
+        "L",
+        "XL"
+      ],
+      "stockQuantity": 101,
+      "basePrice": 2499,
+      "discount": 400,
+      "finalPrice": 2099,
+      "pic": [
+        "item8.avif",
+        "item12.avif",
+        "item1.avif"
+      ],
+      "discription": "<p>Lightweight running shoes&nbsp;</p>",
+      "stock": true,
+      "active": true
+    },
+    {
+      "name": "Printed Kurta",
+      "maincategory": "Male",
+      "subcategory": "T-Shirt",
+      "brand": "Nike",
+      "color": [
+        "Blue",
+        "White"
+      ],
+      "size": [
+        "M",
+        "L"
+      ],
+      "stockQuantity": 115,
+      "basePrice": 799,
+      "discount": 100,
+      "finalPrice": 0,
+      "pic": [
+        "item1.avif",
+        "item3.avif",
+        "item5.avif",
+        "item7.avif"
+      ],
+      "discription": "<p>Comfortable cotton T-shirt&nbsp;</p>",
+      "stock": true,
+      "active": true,
+      "id": "prod0115"
+    },
+    {
+      "id": "prod116",
+      "name": "Elegant Kurta",
+      "maincategory": "Female",
+      "subcategory": "Kurta",
+      "brand": "RedTape",
+      "color": [
+        "Green"
+      ],
+      "size": [
+        "S",
+        "M"
+      ],
+      "stockQuantity": 79,
+      "basePrice": 999,
+      "discount": 200,
+      "finalPrice": 799,
+      "pic": [
+        "item2.avif",
+        "item4.avif",
+        "item6.avif",
+        "item8.avif"
+      ],
+      "discription": "<p>Elegant printed kurta&nbsp;</p>",
+      "stock": true,
+      "active": true
+    },
+    {
+      "id": "prod117",
+      "name": "Slim Fit Jeans",
+      "maincategory": "Male",
+      "subcategory": "Jeens",
+      "brand": "Gucci",
+      "color": [
+        "Black",
+        "Grey",
+        "White"
+      ],
+      "size": [
+        "L"
+      ],
+      "stockQuantity": 146,
+      "basePrice": 1299,
+      "discount": 300,
+      "finalPrice": 999,
+      "pic": [
+        "item9.avif",
+        "item10.avif",
+        "item11.avif",
+        "item12.avif"
+      ],
+      "discription": "<p>Stylish slim fit jeans&nbsp;</p>",
+      "stock": true,
+      "active": true
+    },
+    {
+      "id": "prod118",
+      "name": "Printed Kurta",
+      "maincategory": "Female",
+      "subcategory": "Kurta",
+      "brand": "Gucci",
+      "color": [
+        "Pink"
+      ],
+      "size": [
+        "S",
+        "M"
+      ],
+      "stockQuantity": 66,
+      "basePrice": 899,
+      "discount": 150,
+      "finalPrice": 749,
+      "pic": [
+        "category_item10.avif",
+        "category_item2.avif",
+        "category_item6.avif",
+        "category_item13.avif"
+      ],
+      "discription": "<p>Elegant printed kurta for festive wear&nbsp;</p>",
+      "stock": true,
+      "active": true
+    },
+    {
+      "id": "prod119",
+      "name": "Denim Jeans",
+      "maincategory": "Male",
+      "subcategory": "Jeens",
+      "brand": "Gucci",
+      "color": [
+        "Black",
+        "Grey"
+      ],
+      "size": [
+        "L"
+      ],
+      "stockQuantity": 116,
+      "basePrice": 1399,
+      "discount": 200,
+      "finalPrice": 1199,
+      "pic": [
+        "category_item10.avif",
+        "category_item1.avif",
+        "category_item5.avif",
+        "category_item11.avif"
+      ],
+      "discription": "<p>Classic denim jeans&nbsp;</p>",
+      "stock": true,
+      "active": true
+    },
+    {
+      "id": "prod120",
+      "name": "Winter Hoodie",
+      "maincategory": "Male",
+      "subcategory": "Saari",
+      "brand": "Puma",
+      "color": [
+        "Red",
+        "Black"
+      ],
+      "size": [
+        "XL"
+      ],
+      "stockQuantity": 59,
+      "basePrice": 1599,
+      "discount": 300,
+      "finalPrice": 1299,
+      "pic": [
+        "category_item10.avif",
+        "category_item4.avif",
+        "category_item8.avif",
+        "category_item14.avif"
+      ],
+      "discription": "<p>Warm hoodie for cold days&nbsp;</p>",
+      "stock": true,
+      "active": true
+    },
+    {
+      "id": "prod121",
+      "name": "Casual Shirt",
+      "maincategory": "Male",
+      "subcategory": "Shirt",
+      "brand": "Jordan",
+      "color": [
+        "White",
+        "Blue"
+      ],
+      "size": [
+        "M",
+        "L"
+      ],
+      "stockQuantity": 87,
+      "basePrice": 999,
+      "discount": 150,
+      "finalPrice": 849,
+      "pic": [
+        "category_item10.avif",
+        "category_item6.avif",
+        "category_item9.avif",
+        "category_item13.avif"
+      ],
+      "discription": "<p>Casual shirt for daily wear&nbsp;</p>",
+      "stock": true,
+      "active": true
+    },
+    {
+      "id": "prod122",
+      "name": "Party Dress",
+      "maincategory": "Female",
+      "subcategory": "Saari",
+      "brand": "Jordan",
+      "color": [
+        "Purple",
+        "Pink"
+      ],
+      "size": [
+        "S",
+        "M"
+      ],
+      "stockQuantity": 50,
+      "basePrice": 1899,
+      "discount": 400,
+      "finalPrice": 1499,
+      "pic": [
+        "category_item10.avif",
+        "category_item5.avif",
+        "category_item7.avif"
+      ],
+      "discription": "<p>Stylish party dress&nbsp;</p>",
+      "stock": "Limited Stock",
+      "active": true
+    },
+    {
+      "id": "prod123",
+      "name": "Cargo Pants",
+      "maincategory": "Male",
+      "subcategory": "Jeens",
+      "brand": "Jordan",
+      "color": [
+        "Green",
+        "Brown"
+      ],
+      "size": [
+        "L",
+        "XL"
+      ],
+      "stockQuantity": 85,
+      "basePrice": 1299,
+      "discount": 250,
+      "finalPrice": 1049,
+      "pic": [
+        "category_item10.avif",
+        "category_item3.avif",
+        "category_item6.avif",
+        "category_item12.avif"
+      ],
+      "discription": "<p>Comfortable cargo pants&nbsp;</p>",
+      "stock": "In Stock",
+      "active": true
+    },
+    {
+      "id": "prod124",
+      "name": "Graphic Tee",
+      "maincategory": "Male",
+      "subcategory": "T-Shirt",
+      "brand": "Adidas",
+      "color": [
+        "Yellow"
+      ],
+      "size": [
+        "M"
+      ],
+      "stockQuantity": 100,
+      "basePrice": 699,
+      "discount": 100,
+      "finalPrice": 599,
+      "pic": [
+        "category_item10.avif",
+        "category_item2.avif",
+        "category_item8.avif"
+      ],
+      "discription": "<p>Trendy graphic printed tee&nbsp;</p>",
+      "stock": "In Stock",
+      "active": true
+    },
+    {
+      "id": "prod125",
+      "name": "Formal Trousers",
+      "maincategory": "Male",
+      "subcategory": "Saari",
+      "brand": "Mufti",
+      "color": [
+        "Black"
+      ],
+      "size": [
+        "L",
+        "XL"
+      ],
+      "stockQuantity": 69,
+      "basePrice": 1199,
+      "discount": 200,
+      "finalPrice": 999,
+      "pic": [
+        "category_item10.avif",
+        "category_item1.avif",
+        "category_item4.avif"
+      ],
+      "discription": "<p>Formal trousers for office wear&nbsp;</p>",
+      "stock": true,
+      "active": true
+    },
+    {
+      "id": "prod126",
+      "name": "Woolen Cap",
+      "maincategory": "Male",
+      "subcategory": "Winterwear",
+      "brand": "Puma",
+      "color": [
+        "Black"
+      ],
+      "size": [
+        "Free Size"
+      ],
+      "stockQuantity": 150,
+      "basePrice": 299,
+      "discount": 50,
+      "finalPrice": 249,
+      "pic": [
+        "category_item10.avif",
+        "category_item3.avif",
+        "category_item6.avif"
+      ],
+      "discription": "<p>Warm woolen cap for winter&nbsp;</p>",
+      "stock": "In Stock",
+      "active": true
+    },
+    {
+      "id": "prod127",
+      "name": "Printed Saree",
+      "maincategory": "Female",
+      "subcategory": "Dress",
+      "brand": "Mufti",
+      "color": [
+        "Red",
+        "Orange"
+      ],
+      "size": [
+        "Free Size"
+      ],
+      "stockQuantity": 60,
+      "basePrice": 1599,
+      "discount": 300,
+      "finalPrice": 1299,
+      "pic": [
+        "category_item10.avif",
+        "category_item2.avif",
+        "category_item5.avif"
+      ],
+      "discription": "<p>Elegant printed saree&nbsp;</p>",
+      "stock": "In Stock",
+      "active": true
+    },
+    {
+      "id": "prod128",
+      "name": "Denim Jacket",
+      "maincategory": "Male",
+      "subcategory": "Jacket",
+      "brand": "Mufti",
+      "color": [
+        "Blue"
+      ],
+      "size": [
+        "XL",
+        "XXL"
+      ],
+      "stockQuantity": 40,
+      "basePrice": 1999,
+      "discount": 500,
+      "finalPrice": 1499,
+      "pic": [
+        "item2.avif",
+        "item3.avif",
+        "item4.avif"
+      ],
+      "discription": "<p>Rugged denim jacket&nbsp;</p>",
+      "stock": "In Stock",
+      "active": true
+    },
+    {
+      "id": "prod129",
+      "name": "Casual Shorts",
+      "maincategory": "Male",
+      "subcategory": "Shorts",
+      "brand": "Puma",
+      "color": [
+        "Grey",
+        "Black"
+      ],
+      "size": [
+        "M",
+        "L"
+      ],
+      "stockQuantity": 89,
+      "basePrice": 599,
+      "discount": 100,
+      "finalPrice": 499,
+      "pic": [
+        "item6.avif",
+        "item10.avif",
+        "item13.avif"
+      ],
+      "discription": "<p>Comfortable summer shorts&nbsp;</p>",
+      "stock": true,
+      "active": true
+    },
+    {
+      "id": "prod130",
+      "name": "Printed Kurta",
+      "maincategory": "Female",
+      "subcategory": "Kurta",
+      "brand": "Mufti",
+      "color": [
+        "Pink"
+      ],
+      "size": [
+        "S",
+        "M",
+        "L"
+      ],
+      "stockQuantity": 68,
+      "basePrice": 899,
+      "discount": 150,
+      "finalPrice": 749,
+      "pic": [
+        "item7.avif",
+        "item11.avif",
+        "item14.avif"
+      ],
+      "discription": "<p>Elegant printed kurta for festive wear&nbsp;</p>",
+      "stock": true,
+      "active": true
+    },
+    {
+      "id": "prod131",
+      "name": "Running Shoes",
+      "maincategory": "Male",
+      "subcategory": "Shoes",
+      "brand": "Nike",
+      "color": [
+        "Blue",
+        "White"
+      ],
+      "size": [
+        "L",
+        "XL"
+      ],
+      "stockQuantity": 110,
+      "basePrice": 2499,
+      "discount": 400,
+      "finalPrice": 2099,
+      "pic": [
+        "item8.avif",
+        "item12.avif",
+        "item1.avif"
+      ],
+      "discription": "<p>Lightweight running shoes&nbsp;</p>",
+      "stock": "In Stock",
+      "active": true
+    },
+    {
+      "id": "prod132",
+      "name": "Sporty Sneakers",
+      "maincategory": "Male",
+      "subcategory": "Shoes",
+      "brand": "Nike",
+      "color": [
+        "White",
+        "Blue"
+      ],
+      "size": [
+        "M",
+        "L"
+      ],
+      "stockQuantity": 0,
+      "basePrice": 2499,
+      "discount": 300,
+      "finalPrice": 2199,
+      "pic": [
+        "category_item10.avif",
+        "category_item3.avif",
+        "category_item7.avif"
+      ],
+      "discription": "<p>Lightweight sneakers for everyday wear&nbsp;</p>",
+      "stock": false,
+      "active": true
+    },
+    {
+      "id": "prod133",
+      "name": "Denim Jacket",
+      "maincategory": "Male",
+      "subcategory": "Jacket",
+      "brand": "Mufti",
+      "color": [
+        "Blue"
+      ],
+      "size": [
+        "XL",
+        "XXL"
+      ],
+      "stockQuantity": 40,
+      "basePrice": 1999,
+      "discount": 500,
+      "finalPrice": 1499,
+      "pic": [
+        "item103.avif",
+        "item104.avif",
+        "item3.avif",
+        "item4.avif"
+      ],
+      "discription": "<p>Rugged denim jacket&nbsp;</p>",
+      "stock": "In Stock",
+      "active": true
+    },
+    {
+      "id": "prod134",
+      "name": "Casual Shorts",
+      "maincategory": "Male",
+      "subcategory": "Shorts",
+      "brand": "Puma",
+      "color": [
+        "Grey",
+        "Black"
+      ],
+      "size": [
+        "M",
+        "L"
+      ],
+      "stockQuantity": 89,
+      "basePrice": 599,
+      "discount": 100,
+      "finalPrice": 499,
+      "pic": [
+        "item105.avif",
+        "item106.avif",
+        "item5.avif",
+        "item6.avif"
+      ],
+      "discription": "<p>Comfortable summer shorts&nbsp;</p>",
+      "stock": true,
+      "active": true
+    },
+    {
+      "id": "prod135",
+      "name": "Printed Kurta",
+      "maincategory": "Female",
+      "subcategory": "Kurta",
+      "brand": "Mufti",
+      "color": [
+        "Pink"
+      ],
+      "size": [
+        "S",
+        "M",
+        "L"
+      ],
+      "stockQuantity": 70,
+      "basePrice": 899,
+      "discount": 150,
+      "finalPrice": 749,
+      "pic": [
+        "item107.avif",
+        "item108.avif",
+        "item7.avif",
+        "item8.avif"
+      ],
+      "discription": "<p>Elegant printed kurta for festive wear&nbsp;</p>",
+      "stock": "Limited Stock",
+      "active": true
+    },
+    {
+      "id": "prod136",
+      "name": "Running Shoes",
+      "maincategory": "Male",
+      "subcategory": "Shoes",
+      "brand": "Nike",
+      "color": [
+        "Blue",
+        "White"
+      ],
+      "size": [
+        "L",
+        "XL"
+      ],
+      "stockQuantity": 109,
+      "basePrice": 2499,
+      "discount": 400,
+      "finalPrice": 2099,
+      "pic": [
+        "item109.avif",
+        "item110.avif",
+        "item9.avif",
+        "item10.avif"
+      ],
+      "discription": "<p>Lightweight running shoes&nbsp;</p>",
+      "stock": true,
+      "active": true
+    },
+    {
+      "id": "prod137",
+      "name": "Sporty Sneakers",
+      "maincategory": "Male",
+      "subcategory": "Shoes",
+      "brand": "Mufti",
+      "color": [
+        "White",
+        "Blue"
+      ],
+      "size": [
+        "M",
+        "L"
+      ],
+      "stockQuantity": 99,
+      "basePrice": 2499,
+      "discount": 300,
+      "finalPrice": 2199,
+      "pic": [
+        "item111.avif",
+        "item112.avif",
+        "item11.avif",
+        "category_item6.avif"
+      ],
+      "discription": "<p>Lightweight sneakers for everyday wear&nbsp;</p>",
+      "stock": true,
+      "active": true
+    }
+  ],
+  "subcategory": [
+    {
+      "id": "7ae0",
+      "name": "Jeens",
+      "pic": "jeens.jpg",
+      "active": true
+    },
+    {
+      "id": "282e",
+      "name": "Saari",
+      "pic": "saari.jpg",
+      "active": true
+    },
+    {
+      "id": "d8bf",
+      "name": "Trouser",
+      "pic": "Trouser.avif",
+      "active": true
+    },
+    {
+      "id": "a06b",
+      "name": "T-Shirt",
+      "pic": "t-shirt.jpg",
+      "active": true
+    }
+  ],
+  "faq": [
+    {
+      "id": "f40a",
+      "question": "How can I track my order?",
+      "answer": "You can track your order using the “Track Order” option in your account dashboard.",
+      "active": true
+    },
+    {
+      "id": "0676",
+      "question": "What payment methods do you accept?",
+      "answer": "We accept credit/debit cards, UPI, net banking, and wallet payments.\n",
+      "active": true
+    },
+    {
+      "id": "6967",
+      "question": " Is Cash on Delivery available?",
+      "answer": "Yes, Cash on Delivery is available on select products and locations.\n",
+      "active": true
+    },
+    {
+      "id": "87c3",
+      "question": "How do I return a product?",
+      "answer": "Go to “My Orders,” select the item, and click on “Return.” Follow the instructions provided",
+      "active": true
+    },
+    {
+      "id": "fc1e",
+      "question": "What is the warranty period for products?",
+      "answer": "Warranty varies by product. You can find warranty details on the product page",
+      "active": true
+    },
+    {
+      "id": "b5f2",
+      "question": "Can I cancel my order after placing it?",
+      "answer": "Yes, you can cancel your order before it is shipped. Visit “My Orders” to cancel",
+      "active": true
+    },
+    {
+      "id": "a10b",
+      "question": "How do I contact customer support?",
+      "answer": "You can reach us via live chat, email, or call our helpline available 24/7.\n",
+      "active": true
+    }
+  ],
+  "feature": [
+    {
+      "id": "9d01",
+      "name": "Shopping Cart",
+      "shortDescription": "Customers can add multiple products, update quantities, and proceed to checkout smoothly.\n\n\n",
+      "icon": "<i class=\"bi bi-cart\"></i>",
+      "active": true
+    },
+    {
+      "id": "ab08",
+      "name": "Order Tracking",
+      "shortDescription": "Track shipping and delivery status in real-time from your dashboard.\n",
+      "icon": "<i class=\"bi bi-truck\"></i>",
+      "active": true
+    },
+    {
+      "id": "a6be",
+      "name": " Secure Payment",
+      "shortDescription": "SSL-encrypted payment gateways ensure safe and secure transactions.",
+      "icon": "<i class=\"bi bi-shield-lock\"></i>",
+      "active": true
+    },
+    {
+      "id": "10b2",
+      "name": "Mobile Friendly",
+      "shortDescription": "Fully responsive design works perfectly across phones, tablets, and desktops.\n",
+      "icon": "<i class=\"bi bi-phone\"></i>",
+      "active": true
+    },
+    {
+      "id": "dbd5",
+      "name": "Fast Delivery",
+      "shortDescription": "Get your orders delivered quickly with our express shipping options.",
+      "icon": "<i class=\"bi bi-lightning-charge\"></i>",
+      "active": true
+    },
+    {
+      "id": "8cff",
+      "name": "Product Warranty",
+      "shortDescription": "Enjoy peace of mind with guaranteed product warranties on select items.",
+      "icon": "<i class=\"bi bi-patch-check\"></i>",
+      "active": true
+    },
+    {
+      "id": "156d",
+      "name": "Easy Returns",
+      "shortDescription": "Hassle-free return policy for damaged or unsatisfactory products.",
+      "icon": "<i class=\"bi bi-arrow-repeat\"></i>",
+      "active": true
+    },
+    {
+      "id": "36ab",
+      "name": "Customer Support",
+      "shortDescription": "24/7 support via chat, email, and phone to assist you anytime.",
+      "icon": "<i class=\"bi bi-headset\"></i>",
+      "active": true
+    },
+    {
+      "id": "fe03",
+      "name": "Bulk Purchase Deals",
+      "shortDescription": "Special discounts and offers for bulk orders and wholesale buyers.",
+      "icon": "<i class=\"bi bi-box-seam\"></i>",
+      "active": true
+    },
+    {
+      "id": "fe04",
+      "name": "Wishlist Feature",
+      "shortDescription": "Save your favorite products and shop later with your personalized wishlist.",
+      "icon": "<i class=\"bi bi-heart\"></i>",
+      "active": true
+    }
+  ],
+  "setting": [
+    {
+      "map1": "https://www.google.com/maps?ll=28.626856,77.069533&z=13&t=m&hl=en-IN&gl=US&mapclient=embed&cid=7801600733100559499",
+      "map2": "https://www.google.com/maps2",
+      "address": "New Delhi,Delhi-110018 Jaibihar\n",
+      "email": "bangarisuraj@7579gmail.com",
+      "phone": "7535948606",
+      "whatsapp": "7535948606",
+      "youtube": "youtube.com",
+      "linkdin": "linkdin.cpm",
+      "facebook": "fb.com",
+      "instagram": "insta.com",
+      "twitter": "twit.com",
+      "sitename": "sopingo",
+      "id": "6e81"
+    }
+  ],
+  "user": [
+    {
+      "id": "f1b6",
+      "name": "Chandu Rawat",
+      "username": "Chandan",
+      "phone": "7535948606",
+      "email": "Chandan123@gmail.com",
+      "password": "Chandan@1234",
+      "role": "Buyer",
+      "active": true,
+      "address": "jhilgarh Kumaleshwar"
+    },
+    {
+      "id": "f1b7",
+      "name": "Suraj Singh",
+      "username": "Suraj",
+      "phone": "7535948606",
+      "email": "bangarisuraj@gmail.com",
+      "password": "Suraj@1234",
+      "role": "Super Admin",
+      "active": true
+    },
+    {
+      "id": "f1b8",
+      "name": "Devanand",
+      "username": "Dev",
+      "phone": "7535984525",
+      "email": "dev1234@gmail.com",
+      "password": "Dev@1234",
+      "role": "Admin",
+      "active": true,
+      "address": "jaibihar najafgarh pin-235648"
+    },
+    {
+      "name": "vikki ",
+      "username": "vikki",
+      "phone": "7535846264",
+      "email": "vikki@gmail.com",
+      "address": "JhilgarhKumaleshwar",
+      "id": "557d",
+      "password": "Vikki@1020",
+      "role": "Buyer",
+      "active": false
+    },
+    {
+      "id": "f0e2",
+      "name": "naveen",
+      "username": "Naveen",
+      "phone": "8542685426",
+      "email": "Naveen123@gmail.com",
+      "role": "Admin",
+      "active": false,
+      "password": "Naveen@1234"
+    },
+    {
+      "id": "bcc6",
+      "name": "kallu",
+      "username": "kallu",
+      "phone": "9485671523",
+      "email": "kallu123@gmail.com",
+      "role": "Admin",
+      "active": false,
+      "password": "Kallu@1234"
+    }
+  ],
+  "checkout": [
+    {
+      "id": "a7a6",
+      "user": {
+        "id": "5bde",
+        "name": "chandan",
+        "email": "chandan123@gmail.com",
+        "phone": "8542685426",
+        "address": "jhilgarh(Kumaleshwar)",
+        "pinCode": "263659",
+        "city": "almora",
+        "state": "uttarakhand",
+        "user": "f1b6"
+      },
+      "orderStatus": "Order is Placed",
+      "paymentMode": "COD",
+      "paymentStatus": "Pending",
+      "shipping": "shipping",
+      "total": 2126,
+      "date": "2025-12-20T04:59:37.897Z",
+      "product": [
+        {
+          "id": "3ab9",
+          "selectedSizes": [
+            "XS",
+            "S"
+          ],
+          "selectedColors": [
+            "Red"
+          ],
+          "quantity": 3,
+          "productId": "prod1102",
+          "pic": "category_item2.avif",
+          "finalPrice": 699,
+          "discount": 100,
+          "basePrice": 799,
+          "brand": "Adidas",
+          "name": "Cartoon T-Shirt",
+          "stockQuantity": 37,
+          "discription": "<p>Fun cartoon print tee</p>",
+          "stock": true
+        }
+      ]
+    },
+    {
+      "id": "c404",
+      "user": {
+        "id": "5bde",
+        "name": "chandan",
+        "email": "chandan123@gmail.com",
+        "phone": "8542685426",
+        "address": "jhilgarh(Kumaleshwar)",
+        "pinCode": "263659",
+        "city": "almora",
+        "state": "uttarakhand",
+        "user": "f1b6"
+      },
+      "orderStatus": "Delivered",
+      "paymentMode": "COD",
+      "paymentStatus": "Done",
+      "shipping": "shipping",
+      "total": 828,
+      "date": "2025-12-20T04:59:56.342Z",
+      "product": [
+        {
+          "id": "f8e6",
+          "selectedSizes": [
+            "S"
+          ],
+          "selectedColors": [
+            "Grey"
+          ],
+          "quantity": 1,
+          "productId": "prod103",
+          "pic": "category_item3.avif",
+          "finalPrice": 799,
+          "discount": 200,
+          "basePrice": 999,
+          "brand": "Nike",
+          "name": "Kids Joggers",
+          "stockQuantity": 26,
+          "discription": "<p>Comfortable joggers for playtime</p>",
+          "stock": true
+        }
+      ]
+    },
+    {
+      "id": "ce31",
+      "user": {
+        "id": "5bde",
+        "name": "chandan",
+        "email": "chandan123@gmail.com",
+        "phone": "8542685426",
+        "address": "jhilgarh(Kumaleshwar)",
+        "pinCode": "263659",
+        "city": "almora",
+        "state": "uttarakhand",
+        "user": "f1b6"
+      },
+      "orderStatus": "Order is Placed",
+      "paymentMode": "COD",
+      "paymentStatus": "Done",
+      "shipping": "shipping",
+      "total": 3226,
+      "date": "2025-12-20T05:00:34.793Z",
+      "product": [
+        {
+          "id": "516e",
+          "selectedSizes": [
+            "L"
+          ],
+          "selectedColors": [
+            "Black"
+          ],
+          "quantity": 1,
+          "productId": "prod119",
+          "pic": "category_item10.avif",
+          "finalPrice": 1199,
+          "discount": 200,
+          "basePrice": 1399,
+          "brand": "Gucci",
+          "name": "Denim Jeans",
+          "stockQuantity": 118,
+          "discription": "<p>Classic denim jeans&nbsp;</p>",
+          "stock": true
+        },
+        {
+          "id": "1465",
+          "selectedSizes": [
+            "L"
+          ],
+          "selectedColors": [
+            "Black"
+          ],
+          "quantity": 2,
+          "productId": "prod117",
+          "pic": "item9.avif",
+          "finalPrice": 999,
+          "discount": 300,
+          "basePrice": 1299,
+          "brand": "Gucci",
+          "name": "Slim Fit Jeans",
+          "stockQuantity": 148,
+          "discription": "<p>Stylish slim fit jeans&nbsp;</p>",
+          "stock": true
+        }
+      ]
+    },
+    {
+      "id": "07b7",
+      "user": {
+        "id": "b356",
+        "name": "chandu ",
+        "email": "chandu1233@gmail.com",
+        "phone": "94568154566",
+        "address": "jhilgarh(Kumaleshwar)",
+        "pinCode": "263659",
+        "city": "almora",
+        "state": "",
+        "user": "f1b6"
+      },
+      "orderStatus": "Delivered",
+      "paymentMode": "UPI",
+      "paymentStatus": "Done",
+      "shipping": "shipping",
+      "total": 1527,
+      "date": "2025-12-20T05:17:26.558Z",
+      "product": [
+        {
+          "id": "330f",
+          "selectedSizes": [
+            "S"
+          ],
+          "selectedColors": [
+            "Pink"
+          ],
+          "quantity": 2,
+          "productId": "prod130",
+          "pic": "item7.avif",
+          "finalPrice": 749,
+          "discount": 150,
+          "basePrice": 899,
+          "brand": "Mufti",
+          "name": "Printed Kurta",
+          "stockQuantity": 70,
+          "discription": "<p>Elegant printed kurta for festive wear&nbsp;</p>",
+          "stock": "Limited Stock"
+        }
+      ]
+    },
+    {
+      "id": "a542",
+      "user": {
+        "id": "5bde",
+        "name": "chandan",
+        "email": "chandan123@gmail.com",
+        "phone": "8542685426",
+        "address": "jhilgarh(Kumaleshwar)",
+        "pinCode": "263659",
+        "city": "almora",
+        "state": "uttarakhand",
+        "user": "f1b6"
+      },
+      "orderStatus": "Delivered",
+      "paymentMode": "COD",
+      "paymentStatus": "Done",
+      "shipping": "shipping",
+      "total": 6326,
+      "date": "2025-12-20T05:45:46.171Z",
+      "product": [
+        {
+          "id": "5703",
+          "selectedSizes": [
+            "L"
+          ],
+          "selectedColors": [
+            "Blue"
+          ],
+          "quantity": 3,
+          "productId": "prod114",
+          "pic": "item8.avif",
+          "finalPrice": 2099,
+          "discount": 400,
+          "basePrice": 2499,
+          "brand": "Nike",
+          "name": "Running Shoes",
+          "stockQuantity": 104,
+          "discription": "<p>Lightweight running shoes&nbsp;</p>",
+          "stock": true
+        }
+      ]
+    },
+    {
+      "id": "b0a1",
+      "user": {
+        "id": "5bde",
+        "name": "chandan",
+        "email": "chandan123@gmail.com",
+        "phone": "8542685426",
+        "address": "jhilgarh(Kumaleshwar)",
+        "pinCode": "263659",
+        "city": "almora",
+        "state": "uttarakhand",
+        "user": "f1b6"
+      },
+      "orderStatus": "Order is Placed",
+      "paymentMode": "COD",
+      "paymentStatus": "Pending",
+      "shipping": "shipping",
+      "total": 1477,
+      "date": "2025-12-20T05:46:14.988Z",
+      "product": [
+        {
+          "id": "a1d7",
+          "selectedSizes": [
+            "XS"
+          ],
+          "selectedColors": [
+            "Red"
+          ],
+          "quantity": 1,
+          "productId": "prod102",
+          "pic": "category_item2.avif",
+          "finalPrice": 699,
+          "discount": 100,
+          "basePrice": 799,
+          "brand": "Adidas",
+          "name": "Cartoon T-Shirt",
+          "stockQuantity": 34,
+          "discription": "<p>Fun cartoon print tee</p>",
+          "stock": true
+        },
+        {
+          "id": "1bbd",
+          "selectedSizes": [
+            "S"
+          ],
+          "selectedColors": [
+            "Pink"
+          ],
+          "quantity": 1,
+          "productId": "prod118",
+          "pic": "category_item10.avif",
+          "finalPrice": 749,
+          "discount": 150,
+          "basePrice": 899,
+          "brand": "Gucci",
+          "name": "Printed Kurta",
+          "stockQuantity": 67,
+          "discription": "<p>Elegant printed kurta for festive wear&nbsp;</p>",
+          "stock": true
+        }
+      ]
+    },
+    {
+      "id": "2b1d",
+      "user": {
+        "id": "5bde",
+        "name": "chandan",
+        "email": "chandan123@gmail.com",
+        "phone": "8542685426",
+        "address": "jhilgarh(Kumaleshwar)",
+        "pinCode": "263659",
+        "city": "almora",
+        "state": "uttarakhand",
+        "user": "f1b6"
+      },
+      "orderStatus": "Order is Placed",
+      "paymentMode": "COD",
+      "paymentStatus": "Pending",
+      "shipping": "shipping",
+      "total": 4726,
+      "date": "2025-12-22T06:28:01.813Z",
+      "product": [
+        {
+          "id": "60cc",
+          "selectedSizes": [
+            "S"
+          ],
+          "selectedColors": [
+            "Blue"
+          ],
+          "quantity": 1,
+          "productId": "prod101",
+          "pic": "category_item1.avif",
+          "finalPrice": 1199,
+          "discount": 300,
+          "basePrice": 1499,
+          "brand": "Wrangler",
+          "name": "Kids Denim Jacket",
+          "stockQuantity": 18,
+          "discription": "<p>Stylish denim jacket for kids</p>",
+          "stock": true
+        },
+        {
+          "id": "addb",
+          "selectedSizes": [
+            "28"
+          ],
+          "selectedColors": [
+            "White"
+          ],
+          "quantity": 1,
+          "productId": "prod105",
+          "pic": "category_item5.avif",
+          "finalPrice": 1399,
+          "discount": 400,
+          "basePrice": 1799,
+          "brand": "Addidas",
+          "name": "Kids Sneakers",
+          "stockQuantity": 34,
+          "discription": "<p>Lightweight sneakers for kids</p>",
+          "stock": true
+        },
+        {
+          "id": "38cf",
+          "selectedSizes": [
+            "L"
+          ],
+          "selectedColors": [
+            "Blue"
+          ],
+          "quantity": 1,
+          "productId": "prod136",
+          "pic": "item109.avif",
+          "finalPrice": 2099,
+          "discount": 400,
+          "basePrice": 2499,
+          "brand": "Nike",
+          "name": "Running Shoes",
+          "stockQuantity": 110,
+          "discription": "<p>Lightweight running shoes&nbsp;</p>",
+          "stock": "In Stock"
+        }
+      ]
+    },
+    {
+      "id": "cb60",
+      "user": {
+        "id": "5bde",
+        "name": "chandan",
+        "email": "chandan123@gmail.com",
+        "phone": "8542685426",
+        "address": "jhilgarh(Kumaleshwar)",
+        "pinCode": "263659",
+        "city": "almora",
+        "state": "uttarakhand",
+        "user": "f1b6"
+      },
+      "orderStatus": "Order is Placed",
+      "paymentMode": "COD",
+      "paymentStatus": "Pending",
+      "shipping": "shipping",
+      "total": 778,
+      "date": "2025-12-22T06:28:49.325Z",
+      "product": [
+        {
+          "id": "d477",
+          "selectedSizes": [
+            "S"
+          ],
+          "selectedColors": [
+            "Pink"
+          ],
+          "quantity": 1,
+          "productId": "prod113",
+          "pic": "item7.avif",
+          "finalPrice": 749,
+          "discount": 150,
+          "basePrice": 899,
+          "brand": "RedTape",
+          "name": "Printed Kurta",
+          "stockQuantity": 69,
+          "discription": "<p>Elegant printed kurta for festive wear&nbsp;</p>",
+          "stock": true
+        }
+      ]
+    },
+    {
+      "id": "cf99",
+      "user": {
+        "id": "5bde",
+        "name": "chandan",
+        "email": "chandan123@gmail.com",
+        "phone": "8542685426",
+        "address": "jhilgarh(Kumaleshwar)",
+        "pinCode": "263659",
+        "city": "almora",
+        "state": "uttarakhand",
+        "user": "f1b6"
+      },
+      "orderStatus": "Delivered",
+      "paymentMode": "COD",
+      "paymentStatus": "Done",
+      "shipping": "shipping",
+      "total": 728,
+      "date": "2025-12-22T06:35:02.840Z",
+      "product": [
+        {
+          "id": "41a5",
+          "selectedSizes": [
+            "XS"
+          ],
+          "selectedColors": [
+            "Red"
+          ],
+          "quantity": 1,
+          "productId": "prod102",
+          "pic": "category_item2.avif",
+          "finalPrice": 699,
+          "discount": 100,
+          "basePrice": 799,
+          "brand": "Adidas",
+          "name": "Cartoon T-Shirt",
+          "stockQuantity": 33,
+          "discription": "<p>Fun cartoon print tee</p>",
+          "stock": true
+        }
+      ]
+    },
+    {
+      "id": "5ccd",
+      "user": {
+        "id": "5bde",
+        "name": "chandan",
+        "email": "chandan123@gmail.com",
+        "phone": "8542685426",
+        "address": "jhilgarh(Kumaleshwar)",
+        "pinCode": "263659",
+        "city": "almora",
+        "state": "uttarakhand",
+        "user": "f1b6"
+      },
+      "orderStatus": "Delivered",
+      "paymentMode": "COD",
+      "paymentStatus": "Done",
+      "shipping": "shipping",
+      "total": 828,
+      "date": "2025-12-22T06:35:36.428Z",
+      "product": [
+        {
+          "id": "0bba",
+          "selectedSizes": [
+            "S"
+          ],
+          "selectedColors": [
+            "Grey"
+          ],
+          "quantity": 1,
+          "productId": "prod103",
+          "pic": "category_item3.avif",
+          "finalPrice": 799,
+          "discount": 200,
+          "basePrice": 999,
+          "brand": "Nike",
+          "name": "Kids Joggers",
+          "stockQuantity": 25,
+          "discription": "<p>Comfortable joggers for playtime</p>",
+          "stock": true
+        }
+      ]
+    },
+    {
+      "id": "50c6",
+      "user": {
+        "id": "5bde",
+        "name": "chandan",
+        "email": "chandan123@gmail.com",
+        "phone": "8542685426",
+        "address": "jhilgarh(Kumaleshwar)",
+        "pinCode": "263659",
+        "city": "almora",
+        "state": "uttarakhand",
+        "user": "f1b6"
+      },
+      "orderStatus": "Order is Placed",
+      "paymentMode": "COD",
+      "paymentStatus": "Pending",
+      "shipping": "shipping",
+      "total": 828,
+      "date": "2025-12-22T07:06:17.005Z",
+      "product": [
+        {
+          "id": "a933",
+          "selectedSizes": [
+            "S"
+          ],
+          "selectedColors": [
+            "Grey"
+          ],
+          "quantity": 1,
+          "productId": "prod103",
+          "pic": "category_item3.avif",
+          "finalPrice": 799,
+          "discount": 200,
+          "basePrice": 999,
+          "brand": "Nike",
+          "name": "Kids Joggers",
+          "stockQuantity": 24,
+          "discription": "<p>Comfortable joggers for playtime</p>",
+          "stock": true
+        }
+      ]
+    },
+    {
+      "id": "fe43",
+      "user": {
+        "id": "5bde",
+        "name": "chandan",
+        "email": "chandan123@gmail.com",
+        "phone": "8542685426",
+        "address": "jhilgarh(Kumaleshwar)",
+        "pinCode": "263659",
+        "city": "almora",
+        "state": "uttarakhand",
+        "user": "f1b6"
+      },
+      "orderStatus": "Delivered",
+      "paymentMode": "COD",
+      "paymentStatus": "Done",
+      "shipping": "shipping",
+      "total": 2228,
+      "date": "2025-12-22T07:21:01.193Z",
+      "product": [
+        {
+          "id": "a9ef",
+          "selectedSizes": [
+            "M"
+          ],
+          "selectedColors": [
+            "White"
+          ],
+          "quantity": 1,
+          "productId": "prod137",
+          "pic": "item111.avif",
+          "finalPrice": 2199,
+          "discount": 300,
+          "basePrice": 2499,
+          "brand": "Mufti",
+          "name": "Sporty Sneakers",
+          "stockQuantity": 100,
+          "discription": "<p>Lightweight sneakers for everyday wear&nbsp;</p>",
+          "stock": "In Stock"
+        }
+      ]
+    },
+    {
+      "id": "1457",
+      "user": null,
+      "orderStatus": "Order is Placed",
+      "paymentMode": "COD",
+      "paymentStatus": "Pending",
+      "shipping": "shipping",
+      "total": 2627,
+      "date": "2026-01-13T07:17:30.885Z",
+      "product": [
+        {
+          "id": "22b1",
+          "selectedSizes": [
+            "28"
+          ],
+          "selectedColors": [
+            "White"
+          ],
+          "quantity": 1,
+          "productId": "prod105",
+          "pic": "category_item5.avif",
+          "finalPrice": 1399,
+          "discount": 400,
+          "basePrice": 1799,
+          "brand": "Addidas",
+          "name": "Kids Sneakers",
+          "stockQuantity": 33,
+          "discription": "<p>Lightweight sneakers for kids</p>",
+          "stock": true
+        },
+        {
+          "id": "2eb9",
+          "selectedSizes": [
+            "L"
+          ],
+          "selectedColors": [
+            "Black"
+          ],
+          "quantity": 1,
+          "productId": "prod119",
+          "pic": "category_item10.avif",
+          "finalPrice": 1199,
+          "discount": 200,
+          "basePrice": 1399,
+          "brand": "Gucci",
+          "name": "Denim Jeans",
+          "stockQuantity": 117,
+          "discription": "<p>Classic denim jeans&nbsp;</p>",
+          "stock": true
+        }
+      ]
+    },
+    {
+      "id": "e00a",
+      "user": {
+        "id": "5bde",
+        "name": "chandan",
+        "email": "chandan123@gmail.com",
+        "phone": "8542685426",
+        "address": "jhilgarh(Kumaleshwar)",
+        "pinCode": "263659",
+        "city": "almora",
+        "state": "uttarakhand",
+        "user": "f1b6"
+      },
+      "orderStatus": "Order is Placed",
+      "paymentMode": "COD",
+      "paymentStatus": "Done",
+      "shipping": "shipping",
+      "total": 1228,
+      "date": "2026-01-21T06:58:48.239Z",
+      "product": [
+        {
+          "id": "a0e3",
+          "selectedSizes": [
+            "S"
+          ],
+          "selectedColors": [
+            "Blue"
+          ],
+          "quantity": 1,
+          "productId": "prod101",
+          "pic": "category_item1.avif",
+          "finalPrice": 1199,
+          "discount": 300,
+          "basePrice": 1499,
+          "brand": "Wrangler",
+          "name": "Kids Denim Jacket",
+          "stockQuantity": 17,
+          "discription": "<p>Stylish denim jacket for kids</p>",
+          "stock": true
+        }
+      ]
+    }
+  ]
+}
